@@ -14,8 +14,8 @@ Education
 * Master student in LOGOS, Université Paris Cité
 * B.Sc. in applied mathematics, Université de Lille, 2024
 
-<!--
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
