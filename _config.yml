@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #""
+title                    : "Min Homepage"
 title_separator          : "-"
 name                     : &name "Yuqian Min"
 description              : &description "personal description"
