@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Master student in LOGOS, Université Paris Cité
+* B.Sc. in applied mathematics, Université de Lille
 
 
 <!--
